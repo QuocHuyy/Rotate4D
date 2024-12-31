@@ -1,4 +1,4 @@
-# Knowledge Graph Embedding with the Special Orthogonal Group in Quaternion Space for Link Prediction
+# Rotate4D: KG Embedding with the Special Orthogonal Group in Quaternion Space for Link Prediction
 
 This repository contains the source code for **Rotate4D**, a knowledge graph embedding model that represents relations as rotations in four-dimensional space. The model was introduced in our recent publication.
 
